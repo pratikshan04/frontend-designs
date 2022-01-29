@@ -11,7 +11,7 @@ Thanks for checking out this front-end coding challenge.
 - [About the Project](#about-the-project)
 - [Built with](#built-with)
 - [Projects](#projects)
-    - [QR Component](#qr-component)
+    - [QR Code Component](#qr-code-component)
 
 
 ## About the Project
@@ -27,4 +27,6 @@ Thanks for checking out this front-end coding challenge.
 
 ## Projects
 
-- [QR Component](https://your-solution-url.com)
+- QR Code Component
+  - Solution URL: [Click here](https://github.com/pratikshan04/frontend-designs/tree/master/qr-code-component-main)
+  - Live Site URL: [Click here](https://qrcode-frontenddesign.netlify.app/)
