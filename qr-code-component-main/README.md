@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Code Scanner Screenshot](/images/screenshot.png?raw=true "QR Code Scanner Screenshot")
+![QR Code Scanner Screenshot](./images/screenshot.png?raw=true "QR Code Scanner Screenshot")
 
 ### Links
 
